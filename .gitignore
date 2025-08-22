@@ -4,3 +4,4 @@ venv/
 .env
 *.csv
 .ipynb_checkpoints/
+test/
